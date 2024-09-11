@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saranya00-s
+- 👋 Hi, I’m @saranya 
 - 👀 I’m interested in Radar Meteorology
 - 🌱 I’m currently working on Radar data Products generation
 
